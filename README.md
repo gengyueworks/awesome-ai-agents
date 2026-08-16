@@ -58,6 +58,7 @@ AI Agent 的生态现在分三层，记住这三层，看什么都清楚：
 
 其余主流运行时 / 框架（按场景挑）：
 
+- **[Agent QA](https://github.com/vostride/agent-qa)** —— 面向软件团队的 TypeScript QA Agent；用自然语言定义 Web / 移动端测试，保存测试记忆并自愈 UI 变化，提供 CLI、Dashboard 和 MCP 接口（Node.js 24+；当前 FSL-1.1-ALv2 为 source-available，并非 OSI 开源）。
 - **LangChain / LangGraph** —— 最流行的 Agent 编排库；LangGraph 用图把多步 Agent 流程管起来，适合复杂分支。
 - **Microsoft AutoGen** —— 多 Agent 对话框架，几个 Agent 互相讨论把任务做出来。
 - **CrewAI** —— 给每个 Agent 分配"角色 / 目标 / 工具"，像组一支团队。
