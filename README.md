@@ -58,6 +58,7 @@ AI Agent 的生态现在分三层，记住这三层，看什么都清楚：
 
 其余主流运行时 / 框架（按场景挑）：
 
+- **[SandBase Harness](https://github.com/sandbaseai/sandbase-harness)** —— 本地优先、自托管的 Agent runtime 与 MCP bridge，适合需要 sessions、memory、credentials、audit/replay 和本地 Console 的开发者。
 - **LangChain / LangGraph** —— 最流行的 Agent 编排库；LangGraph 用图把多步 Agent 流程管起来，适合复杂分支。
 - **Microsoft AutoGen** —— 多 Agent 对话框架，几个 Agent 互相讨论把任务做出来。
 - **CrewAI** —— 给每个 Agent 分配"角色 / 目标 / 工具"，像组一支团队。
