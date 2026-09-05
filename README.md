@@ -65,6 +65,7 @@ AI Agent 的生态现在分三层，记住这三层，看什么都清楚：
 - **Google ADK（Agent Development Kit）** —— Google 的 Agent 开发套件，原生接 Gemini 与 Google 生态。
 - **Microsoft Semantic Kernel** —— 面向企业的 Agent / 编排 SDK，.NET 与 Python 双支持。
 - **Dify** —— 开源的 LLMOps / 可视化 Agent 搭建平台，拖拽就能做带工具的 Agent，非程序员也能用。
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** —— 开源、本地优先的 AI 团队桌面应用，由 Commander 在一个对话中协调专业 Agent 完成复杂工作。
 - **n8n** —— 工作流自动化工具，AI 节点 + 上千集成，把 Agent 嵌进日常流程。
 - **MetaGPT** —— 多 Agent 模拟一家"软件公司"，一句话需求产出需求文档 / 设计 / 代码。
 - **LlamaIndex** —— 数据框架（RAG + Agent），擅长让 Agent 基于你的私有知识干活。
